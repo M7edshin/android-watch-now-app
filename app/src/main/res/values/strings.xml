@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Watch Now</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="release">Release date: \t\t</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    <string name="trailer">Trailer</string>
+    <string name="no_connection">No connection</string>
+    <string name="removed">Removed</string>
+    <string name="message_saved_movie">Already saved</string>
+    <string name="message_error_in_save_movie">Error occurred to save this Movie</string>
+    <string name="message_saved">Added</string>
+    <string name="reviews">Reviews</string>
+    <string name="reviews_not_available">There are no reviews available</string>
+    <string name="movie_reviews">Movie Reviews</string>
+    <string name="no_trailer_available">No trailers available</string>
+</resources>
