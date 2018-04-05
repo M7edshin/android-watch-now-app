@@ -20,7 +20,6 @@ import android.support.v7.widget.RecyclerView;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.RatingBar;
 import android.widget.TextView;
@@ -79,7 +78,7 @@ public class MovieDetailsActivity extends AppCompatActivity implements LoaderMan
 
     private List<String> videoKeyList;
 
-    private String reviews;
+    private String reviews = "";
 
     private Parcelable saveState;
 
