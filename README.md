@@ -24,10 +24,6 @@ ________________________________________________________________________________
 * [Android YouTube Player](https://github.com/PierfrancescoSoffritti/Android-YouTube-Player) 
 
 * [Support Library Packages](https://developer.android.com/topic/libraries/support-library/packages.html) 
-
-* [ConstraintLayout](https://developer.android.com/training/constraint-layout/index.html)
-
-* [RecyclerView](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html)
 ________________________________________________________________________________________________________________________________
 # About the WATCH NOW App
 
