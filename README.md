@@ -1,6 +1,6 @@
 # About the WATCH NOW App
 
-Most of us can relate to kicking back on the couch and enjoying a movieDetails with friends and family. In this app, the prime objective of “WATCH NOW” Application is to provide Hollywood cinema details for the users which will display movies (Upcoming/Now Playing/Popular/Top-rated). The user will not only finds all the details of the Movies,
+Most of us like to kicking back on the couch and enjoying a movie with friends and family. In this app, the prime objective of “WATCH NOW” Application is to provide Hollywood cinema details for the users which will display movies (Upcoming/Now Playing/Popular/Top-rated). The user will not only finds all the details of the Movies,
 but also, he/she can make play trailers, read reviews, and save his favorites movies etc.
 ____________________________________________________________________________________________________________________________
 # Note 
